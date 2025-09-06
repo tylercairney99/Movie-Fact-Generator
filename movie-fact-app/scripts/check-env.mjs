@@ -1,3 +1,5 @@
+// AI GENERATED CODE TO CHECK ENVIRONMENT VARIABLES
+
 // Environment check script with dotenv support
 import { config } from 'dotenv';
 
